@@ -1,0 +1,8 @@
+absl-py==0.7.1
+tensorflow>=1.11.0
+Cython
+contextlib2
+matplotlib
+pillow
+lxml
+pycocotools
